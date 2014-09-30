@@ -78,7 +78,7 @@ int main(int argc, char *argv[])
    char *p;
    int num = 0, on = 1;
 
-   fprintf(stderr, "[+] Smurf-linux style Code to elaborate a DRDoS attack, By averno.\n");
+   fprintf(stderr, "[+] Smurf-linux style Code to elaborate a DRDoS attack.\n");
 
    if (argc != 3) {
      fprintf(stderr, "[+] Uso: %s <Target> <destfile>\n\n", argv[0]);
